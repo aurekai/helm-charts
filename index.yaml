@@ -3,6 +3,32 @@ entries:
   aurekai-runtime:
   - annotations:
       artifacthub.io/category: ai-machine-learning
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: GitHub
+          url: https://github.com/aurekai/aurekai
+        - name: npm
+          url: https://www.npmjs.com/package/@aurekai/runtime
+        - name: Hugging Face
+          url: https://huggingface.co/aurekai
+        - name: Preview Notice
+          url: https://github.com/aurekai/aurekai#registry
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
+    appVersion: 0.8.0-alpha.2
+    created: "2026-05-02T22:33:51.959623-05:00"
+    description: Aurekai Runtime Helm chart scaffold
+    digest: a7be6ef3a9a02138f5e9124f54e79d8f3e0ce24adb6277dfd0c354e8abe3ada5
+    home: https://aurekai.ai
+    name: aurekai-runtime
+    sources:
+    - https://github.com/aurekai/aurekai
+    type: application
+    urls:
+    - aurekai-runtime-0.8.1.tgz
+    version: 0.8.1
+  - annotations:
+      artifacthub.io/category: ai-machine-learning
       artifacthub.io/license: MIT
       artifacthub.io/links: |
         - name: GitHub
@@ -16,7 +42,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.8.0
-    created: "2026-05-02T21:13:03.5681-05:00"
+    created: "2026-05-02T22:33:51.959294-05:00"
     description: Aurekai Runtime Helm chart scaffold
     digest: 14ae079a372e70805c44624c5d54b143cb6e9d7fee32a16827607c919f3a5bc1
     home: https://aurekai.ai
@@ -27,4 +53,4 @@ entries:
     urls:
     - aurekai-runtime-0.8.0.tgz
     version: 0.8.0
-generated: "2026-05-02T21:13:03.567514-05:00"
+generated: "2026-05-02T22:33:51.958487-05:00"
