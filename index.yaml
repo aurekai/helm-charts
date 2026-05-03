@@ -16,7 +16,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.8.0-alpha.2
-    created: "2026-05-02T22:34:50.584033-05:00"
+    created: "2026-05-02T22:34:57.300982-05:00"
     description: Aurekai Runtime Helm chart scaffold
     digest: a7be6ef3a9a02138f5e9124f54e79d8f3e0ce24adb6277dfd0c354e8abe3ada5
     home: https://aurekai.ai
@@ -27,4 +27,4 @@ entries:
     urls:
     - aurekai-runtime-0.8.1.tgz
     version: 0.8.1
-generated: "2026-05-02T22:34:50.582959-05:00"
+generated: "2026-05-02T22:34:57.300528-05:00"
